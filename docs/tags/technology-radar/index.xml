@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology radar on Blog perso</title>
+    <link>https://abarhub.github.io/blogprog/tags/technology-radar/</link>
+    <description>Recent content in Technology radar on Blog perso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/technology-radar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technology Radar</title>
+      <link>https://abarhub.github.io/blogprog/post/personnages_celebres/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/personnages_celebres/</guid>
+      <description>Technology Radar Site :
+ Techniques Tools Platforms Languages &amp;amp; Frameworks  </description>
+    </item>
+    
+  </channel>
+</rss>

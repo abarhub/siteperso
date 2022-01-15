@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>java on Blog perso</title>
+    <link>https://abarhub.github.io/blogprog/tags/java/</link>
+    <description>Recent content in java on Blog perso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Applications Java</title>
+      <link>https://abarhub.github.io/blogprog/post/app_java/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/app_java/</guid>
+      <description>Liste application en java
+https://github.com/Glank/Java-Games
+https://github.com/kennycason/java_games
+https://github.com/mayank8/Java-2D-Games
+https://github.com/Col-E/Recaf
+https://github.com/GraxCode/JByteMod-Beta
+https://github.com/pH-7/Simple-Java-Text-Editor
+https://github.com/george-popoiu/Editor
+https://github.com/tchiotludo/akhq
+https://kafka.apache.org/
+https://github.com/dbeaver/dbeaver
+https://github.com/caoxinyu/RedisClient
+https://github.com/vran-dev/PrettyZoo
+https://github.com/tesseract4java/tesseract4java
+https://github.com/asdfjkl/jerry
+Pour en chercher d&amp;rsquo;autres, il faut rechercher : topic:java topic:gui</description>
+    </item>
+    
+  </channel>
+</rss>

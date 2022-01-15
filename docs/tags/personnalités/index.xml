@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personnalités on Blog perso</title>
+    <link>https://abarhub.github.io/blogprog/tags/personnalit%C3%A9s/</link>
+    <description>Recent content in personnalités on Blog perso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://abarhub.github.io/blogprog/tags/personnalit%C3%A9s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personnages célèbres</title>
+      <link>https://abarhub.github.io/blogprog/post/technology_radar/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://abarhub.github.io/blogprog/post/technology_radar/</guid>
+      <description>Personnages célèbres :  Godfrey Harold Hardy Alan Turing Paul Erdős Srinivasa Ramanujan Bertrand Russell Alfred North Whitehead Kurt Gödel Noam Chomsky Gottfried Wilhelm Leibniz Gottlob Frege George Boole Giuseppe Peano Euclide Charles Sanders Peirce Albert Einstein Aristote Galilée Pythagore Thalès Évariste Galois Niels Henrik Abel  </description>
+    </item>
+    
+  </channel>
+</rss>
